@@ -1,4 +1,8 @@
 # App bán đồ cũ (web & mobile)
+Website mua bán đồ cũ:
+Công nghệ sử dụng: React JS, React Native, JS
+- Chức năng của người dùng gồm đăng nhập, đăng kí, đăng tin bán sản phẩm, xem sản phẩm, quản lý tin đã đăng, mua sản phẩm, quản lý trang cá nhân, xem lịch sử mua, bán sản phẩm
+- Chức năng của quản trị viên gồm đăng nhập, quản lý khách hàng, quản lý đơn hàng, quản lý sản phẩm, thống kê
 # Web
 Trang đăng nhập
 
